@@ -1,7 +1,7 @@
 function range(a, b){
 	let result = [];
 	if(a<b){
-		let a += 1;
+		a += 1;
 		result.push(a); 
 	}
 	return result;
