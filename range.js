@@ -1,6 +1,6 @@
 function range(a, b){
 	let result = [];
-	for(a=a; a<b; a+=1){
+	for(a = a; a <= b; a += 1){
 		
 		result.push(a); 
 	}
